@@ -1,10 +1,9 @@
 /*
- * 江苏溯创信息科技有限公司
- * 
  * 项目名称 : GitHubProject
  * 创建日期 : 2017年3月7日
  * 修改历史 : 
- *     1. [2017年3月7日]创建文件 by Administrator
+ *     1. [2017年3月7日]
+ *     创建文件 by xmlu
  */
 
 /**
@@ -14,21 +13,15 @@
  */
 public class Test {
 
-    /**
-     * 
-     */
     public Test() {
-        // TODO Auto-generated constructor stub
     }
 
     /**
-     * 添加方法功能描述
+     * 入库方法
      * @author Administrator
      * @param args
      */
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-        System.out.println("XXX");
+        System.out.println("Hello world GitHub !!");
     }
-
 }
